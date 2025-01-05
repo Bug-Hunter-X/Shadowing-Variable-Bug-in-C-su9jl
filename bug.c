@@ -1,0 +1,1 @@
+int main() { int x = 5; if (x == 5) { int x = 10; printf("%d", x); } printf("%d", x); return 0; }
